@@ -56,6 +56,6 @@ class TestOne(BaseClass):
 
         message = confirmpage.getMessageSuccess().text
         log.info("Text received from application is: "+message)
-        assert "Success! Tlhank you!" in message
+        assert "Success! Thank you!" in message
 
         self.driver.get_screenshot_as_file("Screenshot.png")

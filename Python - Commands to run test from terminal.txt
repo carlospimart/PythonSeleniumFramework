@@ -48,5 +48,33 @@ To execute our test with report:
 py.test --html=report.html
 
 
+How to install jenkins:
+
+  - Download Jenkins (Generic Java package (.war)) from https://www.jenkins.io/download/, in Download Jenkins 2.332.3 LTS for.
+  
+  - Put the file in any directory, then run this command in Promp command: 
+    
+        java -jar jenkins.war --enable-future-java --httpPort=8080 
+  
+  - go to  localhost:8080 and follow up
+
+
+How to create a new jenkins project
+
+  - In jenkins, click in new items, give a project name and choose one of the choices (generally freestyle) and click create
+
+  - In "General" click Advance and tick "Use custom workspace" and paste the path of our project, for instance:
+      
+            C:\Users\carlos.picon\Development\PythonSelfFramework
+  
+  - We go to Build->Add build step->Execute Windows batch command, we paste a command to navigate to test folder and a command
+    to run a test, for example:
+
+        cd tests
+        py.test --browser_name chrome --html=$WORKSPACE/Reports/reports.html
+  
+  - Save, and go to Dashboard click on project and "Build now" if you want to execute the tests 
 
  
+
+
