@@ -1,0 +1,74 @@
+2022-06-21 10:28:45,523 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 10:28:45,532 :INFO : test_Form :ProtoCommerce
+2022-06-21 10:28:58,680 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 10:28:58,680 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 10:28:58,687 :INFO : test_Form :ProtoCommerce
+2022-06-21 10:28:58,687 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:02:37,735 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:02:37,744 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:02:50,913 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:02:50,913 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:02:50,939 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:02:50,939 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:03:30,504 :INFO : test_e2e :Blackberry
+2022-06-21 12:03:32,613 :INFO : test_e2e :Entering country name as Ind
+2022-06-21 12:03:45,303 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-21 12:23:48,166 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:23:48,173 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:24:01,327 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:24:01,327 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:24:01,333 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:24:01,333 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:24:41,697 :INFO : test_e2e :Blackberry
+2022-06-21 12:24:43,775 :INFO : test_e2e :Entering country name as Ind
+2022-06-21 12:24:56,443 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-21 12:25:58,967 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:25:58,975 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:26:11,862 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:26:11,862 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:26:11,869 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:26:11,869 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:27:06,940 :INFO : test_e2e :Blackberry
+2022-06-21 12:27:09,016 :INFO : test_e2e :Entering country name as Ind
+2022-06-21 12:27:21,671 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-21 12:30:32,651 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:30:32,659 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:30:47,576 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:30:47,576 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:30:47,583 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:30:47,583 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:31:27,578 :INFO : test_e2e :Blackberry
+2022-06-21 12:31:29,662 :INFO : test_e2e :Entering country name as Ind
+2022-06-21 12:31:42,377 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-21 12:33:48,503 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:33:48,510 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:34:01,703 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:34:01,703 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-21 12:34:01,710 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:34:01,710 :INFO : test_Form :ProtoCommerce
+2022-06-21 12:34:42,340 :INFO : test_e2e :Blackberry
+2022-06-21 12:34:44,421 :INFO : test_e2e :Entering country name as Ind
+2022-06-21 12:34:57,125 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

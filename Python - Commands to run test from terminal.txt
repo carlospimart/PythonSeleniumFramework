@@ -1,0 +1,52 @@
+All the tests in a pachage:
+
+   py.test -v -s
+
+
+
+
+Just one test case: we must apply the next command by sustituying nameofthefunction for some of the text from our name of 
+
+function after test_
+
+   py.test -k nameofthefunction -v -s
+
+For example if our function is "def test_anotherSumForEverybody():" we will apply the next command:
+
+   py.test -k SumForEverybody -v -s
+
+
+
+To execute the marked test:
+
+py.test -m mark_name -v -s
+
+Example, if our mark is  @pytest.mark.smoke, then we apply the next command:
+
+py.test -m smoke -v -s
+
+
+If we want to skip one of the tests, just we must write above the function:
+ 
+@pytest.mark.skip
+
+This test will be skipped at all the time
+
+
+
+
+If we don't want to report one of tests, just we must write above the function:
+ 
+@pytest.mark.xfail
+
+This test will not be reported 
+
+
+
+To execute our test with report:
+
+py.test --html=report.html
+
+
+
+ 
