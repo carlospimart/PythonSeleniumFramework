@@ -58,4 +58,4 @@ class TestOne(BaseClass):
         log.info("Text received from application is: "+message)
         assert "Success! Thank you!" in message
 
-        self.driver.get_screenshot_as_file("Screenshot.png")
+        #self.driver.get_screenshot_as_file("Screenshot.png")

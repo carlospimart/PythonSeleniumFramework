@@ -77,4 +77,30 @@ How to create a new jenkins project
 
  
 
+How to parameterise some variables in jenkins:
 
+  - In jenkins, in our project click in Configure, in General tick on "This project is parameterised" and "Add parameter"
+    ,we have provide the name of our parameter in Name (for example: browserName). 
+    In the box, we type the name of variable that we want to parameterise, for example the browser:
+
+         chrome
+         edge
+  
+  - In Build->Add build step->Execute Windows batch command, we can rewrite the command like this:
+
+        cd tests
+        py.test --browser_name "%browserName%" --html=$WORKSPACE/Reports/reports.html
+
+
+Create a .xml file report from jenkins:
+
+  - Go to Build->Add build step->Execute Windows batch command, we can rewrite the command like this:
+
+        cd tests
+        py.test --browser_name "%browserName%" --html=$WORKSPACE/Reports/reports.html -v --junitxml="result.xml"
+   
+  - If we go to "Post-build Actions" and select "Publish JUnit test result report". 
+   
+  - In "Test report XMLs" box we type "tests/result.xml". In "Health report amplification factor": 1.0
+
+ 

@@ -24,3 +24,153 @@ Success! The Form has been submitted successfully!.
 2022-06-21 16:52:41,096 :INFO : test_e2e :Entering country name as Ind
 2022-06-21 16:52:53,703 :INFO : test_e2e :Text received from application is: ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-22 10:09:41,412 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-22 10:09:41,439 :INFO : test_Form :ProtoCommerce
+2022-06-22 10:09:54,930 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-22 10:09:54,930 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-22 10:09:54,938 :INFO : test_Form :ProtoCommerce
+2022-06-22 10:09:54,938 :INFO : test_Form :ProtoCommerce
+2022-06-22 10:10:16,136 :INFO : test_e2e :Blackberry
+2022-06-22 10:10:18,218 :INFO : test_e2e :Entering country name as Ind
+2022-06-22 10:10:30,941 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-22 10:48:43,645 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-22 10:48:43,652 :INFO : test_Form :ProtoCommerce
+2022-06-22 10:48:56,856 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-22 10:48:56,856 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-22 10:48:56,863 :INFO : test_Form :ProtoCommerce
+2022-06-22 10:48:56,863 :INFO : test_Form :ProtoCommerce
+2022-06-22 10:49:06,116 :INFO : test_e2e :Blackberry
+2022-06-22 10:49:08,210 :INFO : test_e2e :Entering country name as Ind
+2022-06-22 10:49:20,903 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 13:01:44,993 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:01:45,000 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:01:58,196 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:01:58,196 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:01:58,204 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:01:58,204 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:02:08,461 :INFO : test_e2e :Blackberry
+2022-06-23 13:02:10,543 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 13:02:23,354 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 13:10:43,411 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:10:43,420 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:10:56,553 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:10:56,553 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:10:56,561 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:10:56,561 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:11:06,357 :INFO : test_e2e :Blackberry
+2022-06-23 13:11:08,437 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 13:11:21,123 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 13:23:37,776 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:23:37,786 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:23:51,011 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:23:51,011 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:23:51,018 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:23:51,018 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:24:02,481 :INFO : test_e2e :Blackberry
+2022-06-23 13:24:04,585 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 13:24:17,347 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 13:31:03,295 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:31:03,311 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:31:16,434 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:31:16,434 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:31:16,442 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:31:16,442 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:31:26,023 :INFO : test_e2e :Blackberry
+2022-06-23 13:31:28,101 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 13:31:40,764 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 13:38:17,109 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:38:17,118 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:38:30,413 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:38:30,413 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 13:38:30,421 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:38:30,421 :INFO : test_Form :ProtoCommerce
+2022-06-23 13:38:42,478 :INFO : test_e2e :Blackberry
+2022-06-23 13:38:44,577 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 13:38:57,280 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 15:37:51,696 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 15:37:51,706 :INFO : test_Form :ProtoCommerce
+2022-06-23 15:38:04,624 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 15:38:04,624 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 15:38:04,629 :INFO : test_Form :ProtoCommerce
+2022-06-23 15:38:04,629 :INFO : test_Form :ProtoCommerce
+2022-06-23 15:38:14,168 :INFO : test_e2e :Blackberry
+2022-06-23 15:38:16,247 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 15:38:28,775 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-23 16:53:31,993 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 16:53:31,997 :INFO : test_Form :ProtoCommerce
+2022-06-23 16:53:44,820 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 16:53:44,820 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-23 16:53:44,825 :INFO : test_Form :ProtoCommerce
+2022-06-23 16:53:44,825 :INFO : test_Form :ProtoCommerce
+2022-06-23 16:53:53,643 :INFO : test_e2e :Blackberry
+2022-06-23 16:53:55,726 :INFO : test_e2e :Entering country name as Ind
+2022-06-23 16:54:08,169 :INFO : test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-30 09:47:13,485 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 09:47:13,494 :INFO : test_Form :ProtoCommerce
+2022-06-30 09:47:26,388 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 09:47:26,388 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 09:47:26,392 :INFO : test_Form :ProtoCommerce
+2022-06-30 09:47:26,392 :INFO : test_Form :ProtoCommerce
+2022-06-30 09:50:40,724 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 09:50:40,728 :INFO : test_Form :ProtoCommerce
+2022-06-30 09:50:53,595 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 09:50:53,595 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 09:50:53,600 :INFO : test_Form :ProtoCommerce
+2022-06-30 09:50:53,600 :INFO : test_Form :ProtoCommerce
+2022-06-30 17:00:53,853 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 17:00:53,857 :INFO : test_Form :ProtoCommerce
+2022-06-30 17:01:24,360 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 17:01:24,365 :INFO : test_Form :ProtoCommerce
+2022-06-30 17:03:51,932 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 17:03:51,938 :INFO : test_Form :ProtoCommerce
+2022-06-30 17:04:17,634 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 17:04:17,639 :INFO : test_Form :ProtoCommerce
+2022-06-30 17:19:43,541 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-06-30 17:19:43,544 :INFO : test_Form :ProtoCommerce

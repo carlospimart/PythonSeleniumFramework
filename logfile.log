@@ -72,3 +72,9 @@ Success! The Form has been submitted successfully!.
 2022-06-21 12:34:44,421 :INFO : test_e2e :Entering country name as Ind
 2022-06-21 12:34:57,125 :INFO : test_e2e :Text received from application is: ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-01 10:24:09,514 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-07-01 10:24:09,521 :INFO : test_Form :ProtoCommerce
+2022-07-01 10:29:55,826 :INFO : test_Form :×
+Success! The Form has been submitted successfully!.
+2022-07-01 10:29:55,834 :INFO : test_Form :ProtoCommerce

@@ -15,7 +15,7 @@ class TestHomePage(BaseClass):
         time.sleep(1)
         locator = [0, 0, 1]
         list_names = ["name", "email", "exampleInputPassword1"]
-        values = [getData["Name"], getData["Email"], getData["Password"]]
+        values = [getData["first_name"], getData["email"], getData["password"]]
         # fill out name and email and fill out password
         homePage = HomePage(self.driver)
 
@@ -58,6 +58,7 @@ class TestHomePage(BaseClass):
         #time.sleep(5)
 
 
-    @pytest.fixture(params=HomePageData.test_HomePage_data)
+    @pytest.fixture(params=HomePageData.getTestMethod("Testcase3"))
     def getData(self, request):
+
         return request.param
