@@ -28,7 +28,7 @@ class TestHomePage(BaseClass):
         homePage.click(By.CSS_SELECTOR, "select[id='exampleFormControlSelect1']")
         time.sleep(1)
 
-        homePage.dropdown(By.CSS_SELECTOR, "select[id='exampleFormControlSelect1']","Female","class")
+        homePage.dropdown(By.CSS_SELECTOR, "select[id='exampleFormControlSelect1']",getData["gender"],"class")
 
         time.sleep(1)
 
@@ -58,7 +58,7 @@ class TestHomePage(BaseClass):
         #time.sleep(5)
 
 
-    @pytest.fixture(params=HomePageData.getTestMethod("Testcase3"))
+    @pytest.fixture(params=HomePageData.getTestMethod("Testcase4"))
     def getData(self, request):
 
         return request.param
