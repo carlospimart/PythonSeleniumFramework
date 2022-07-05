@@ -58,11 +58,7 @@ class TestHomePage(BaseClass):
         #time.sleep(5)
 
 
-<<<<<<< HEAD
-    @pytest.fixture(params=HomePageData.getTestMethod("Testcase4"))
-=======
-    @pytest.fixture(params=HomePageData.getTestMethod("Testcase5"))
->>>>>>> develop
+    @pytest.fixture(params=HomePageData.getTestMethod("Testcase5")
     def getData(self, request):
 
         return request.param
